@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "A simple CLI for person project developers",
   "main": "index.js",
+  "bin": {
+    "oys": "bin/oys",
+    "oys-build": "bin/oys-build",
+    "oys-init": "bin/oys-init",
+    "oys-list": "bin/oys-list"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +26,18 @@
   "bugs": {
     "url": "https://github.com/ouyangshan09/oys-cli/issues"
   },
-  "homepage": "https://github.com/ouyangshan09/oys-cli#readme"
+  "homepage": "https://github.com/ouyangshan09/oys-cli#readme",
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "download-git-repo": "^0.2.1",
+    "path": "^0.12.7",
+    "request": "^2.79.0",
+    "user-home": "^2.0.0",
+    "util": "^0.10.3"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
 }
