@@ -1,0 +1,24 @@
+{
+  "name": "oys-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI for person project developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouyangshan09/oys-cli.git"
+  },
+  "keywords": [
+    "javascript",
+    "cli",
+    "person"
+  ],
+  "author": "Ouyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouyangshan09/oys-cli/issues"
+  },
+  "homepage": "https://github.com/ouyangshan09/oys-cli#readme"
+}
