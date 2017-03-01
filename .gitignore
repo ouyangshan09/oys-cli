@@ -3,5 +3,5 @@ node_modules/
 test/
 
 #git上传时，过滤文件名
-
+npm-debug.log
 
