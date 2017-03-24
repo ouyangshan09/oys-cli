@@ -1,4 +1,4 @@
-# oys-cli(练习MarkDown语法)
+# oys-cli(QNWS项目技术栈)
 
 
 
@@ -24,5 +24,5 @@ Example:
 
 The above command pulls the template form [oys-template/webpack](https://github.com/oys-tempalte/webpack),
 
-### oys build
+### template List
 
